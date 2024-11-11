@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable imagen
+id Onclickacceder
+id botonIngresar
+id botonLimpiar
+id botonSalir
+id contrasena
+id correo
+id edad
+id main
+id mapTypeSpinner
+id mapView
+id progressBar
+id reproducir
+id spinnerRoles
+id usuario
+id videoView
+id webView
+layout activity_acceso
+layout activity_main
+layout carga_video
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw sonido
+raw video
+string app_name
+style Base.Theme.MyApplication
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
